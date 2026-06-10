@@ -25,10 +25,3 @@ This project implements a simulated Autonomous Mobile Robot (AMR) using ROS 2 Hu
 ## Results
 
 Successfully generated and saved occupancy grid maps using LiDAR-based SLAM in a ROS 2 simulation environment.
-
-## Future Work
-
-* Autonomous navigation using Nav2
-* Path planning
-* Obstacle avoidance
-* Mathematical modeling and control analysis
